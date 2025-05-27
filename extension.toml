@@ -1,0 +1,7 @@
+id = "neon-pulse"
+name = "Neon Pulse Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Arnold Rodriguez"]
+description = "Colorful theme for Zed editor"
+repository = "https://github.com/tu-usuario/neon-pulse-theme"

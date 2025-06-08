@@ -1,6 +1,6 @@
 id = "neon-pulse-theme"
 name = "Neon Pulse Theme"
-version = "1.0.0"
+version = "1.1.0"
 schema_version = 1
 authors = ["Arnold Rodriguez"]
 description = "Colorful theme for Zed editor"

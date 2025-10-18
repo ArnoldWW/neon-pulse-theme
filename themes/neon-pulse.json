@@ -48,9 +48,9 @@
         "panel.background": "#121220FF",
         "panel.focused_border": "#00F0FF3D",
         "pane.focused_border": "#00F0FF3D",
-        "scrollbar.thumb.background": "#9D9D9D80",
-        "scrollbar.thumb.hover_background": "#3C3C4CFF",
-        "scrollbar.thumb.border": "#3C3C4CFF",
+        "scrollbar.thumb.background": "#A5A5A58D",
+        "scrollbar.thumb.hover_background": "#3939529D",
+        "scrollbar.thumb.border": "#393952FF",
         "scrollbar.track.background": "#1E1E2EFF",
         "scrollbar.track.border": "#2D2D44FF",
         "editor.foreground": "#FFFFFFFF",
@@ -202,7 +202,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#FF00FFFF",
+            "color": "#FF70FFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -222,7 +222,7 @@
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#FF00FFFF",
+            "color": "#00F0A0FF",
             "font_style": null,
             "font_weight": 700
           },
@@ -261,6 +261,11 @@
             "font_style": "italic",
             "font_weight": null
           },
+          "namespace": {
+            "color": "#00F0A0FF",
+            "font_style": null,
+            "font_weight": null
+          },
           "number": {
             "color": "#FF70FFFF",
             "font_style": null,
@@ -282,7 +287,7 @@
             "font_weight": null
           },
           "primary": {
-            "color": "#D4D4D4FF",
+            "color": "#FF70FFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -316,6 +321,16 @@
             "font_style": null,
             "font_weight": null
           },
+          "selector": {
+            "color": "#FF00FFFF",
+            "font_style": null,
+            "font_weight": null
+          },
+          "selector.pseudo": {
+            "color": "#00F0A0FF",
+            "font_style": null,
+            "font_weight": null
+          },
           "string": {
             "color": "#FFEE00FF",
             "font_style": null,
@@ -342,7 +357,7 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#FF00FFFF",
+            "color": "#FF70FFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -362,6 +377,11 @@
             "font_weight": null
           },
           "variable": {
+            "color": "#00F0FFFF",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.special": {
             "color": "#00F0FFFF",
             "font_style": null,
             "font_weight": null
